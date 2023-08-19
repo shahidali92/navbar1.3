@@ -1,0 +1,145 @@
+.main{
+     width: 90%;
+    border: 2px solid red;
+    border-style: hidden;
+    margin: auto;
+    margin-top: 100px;}
+    h1{
+     font-family: sans-serif;
+    }
+.miri1{
+     width: 100%;
+     height: 55px;
+     background-color: black;
+     color: white;
+     display: inline-block;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     position: relative;
+     padding-top: 10px;
+}.miri2{
+     width: 100%;
+     height: 55px;
+     background-color: blue;
+     color: white;
+     display: inline-block;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     padding-top: 10px;
+     position: relative;
+
+}.miri3{
+     width: 100%;
+     height: 55px;
+     background-color: rgb(150, 231, 150);
+     color: white;
+     display: inline-block;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     padding-top: 10px;
+     position: relative;
+
+
+}.miri4{
+     width: 100%;
+     height: 55px;
+     background-color: red;
+     color: white;
+     display: inline-block;
+     margin-bottom: 10px;
+     font-family: sans-serif;
+     padding-top: 10px;
+     position: relative;
+}
+ul li{
+     display: inline-block;
+}
+.one{
+     padding-left: 30px;
+}
+.b1{
+     position: absolute;
+     right: 120px;
+     bottom: 3px;
+     background-color: aliceblue;
+     color: rgb(7, 231, 231);
+     width:7%;
+     height: 35px;
+     margin-bottom: 12px;
+     border-radius: 3px;
+     border-style: hidden;
+     font-weight: bold;
+}.b2{
+     position: absolute;
+     right: 20px;
+     background-color: red;
+      color: white;
+      width:7%;
+      height: 35px;
+      bottom: 15px;
+      border-radius: 3px;
+      border-style: hidden;
+      font-weight: bold;
+}
+.one1{
+     position: absolute;
+     right: 350px;
+}.one2{
+     position: absolute;
+     right: 255px;
+}.one3{
+     position: absolute;
+     right: 180px;
+}
+.one4{
+     position: absolute;
+     right: 120px;
+}.one5{
+     position: absolute;
+     right: 90px;
+}.one6{
+     position: absolute;
+     right: 60px;
+}.one7{
+     position: absolute;
+     right: 30px;
+}
+.onea{
+     position: absolute;
+     right: 350px;
+}.oneb{
+     position: absolute;
+     right: 255px;
+}.onec{
+     position: absolute;
+     right: 170px;
+}
+.ccc{
+     position: absolute;
+     right: 70px;
+     background-color: blue;
+     color: white;
+     width:6.5%;
+     height: 40px;
+     bottom: 12px;
+     border-radius: 3px;
+     border-style: hidden;
+     font-weight: bold;
+}
+.oned{
+     position: absolute;
+     right: 45px;
+}.onee{
+     position: absolute;
+     right: 15px;
+}
+.onez{
+     position: absolute;
+     right: 250px;
+}.oney{
+     position: absolute;
+     right: 160px;
+}.onex{
+     position: absolute;
+     right: 50px;
+}
